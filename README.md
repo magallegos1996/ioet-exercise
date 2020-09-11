@@ -6,7 +6,7 @@
 
 Este proyecto busca resolver el reto de programación propuesto por Ioet, el cual consiste en escribir un algoritmo que permita calcular el salario a pagar para cada trabajador, dependiendo de número de horas trabajadas y dia de la semana en el que trabajó.
 
-La lógica del algortimo propuesto consiste en leer un archivo .txt que contiene los INPUT del problema y a continuación procesar el contenido del mismo, de manera que se puedan obetener los datos necesarios para calcular el valor final a pagar
+La lógica del algortimo propuesto consiste en leer un archivo .txt que contiene los INPUT del problema y a continuación procesar el contenido del mismo, de manera que se puedan obtener los datos necesarios para calcular el valor final a pagar
 
 El proyecto implementa tres helpers principales que se encargarán de realizar tres tareas fundamentales
 
