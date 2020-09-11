@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+#IDE WEBSTORM
+.idea/vcs.xml
+.idea/modules.xml
+.idea/codeStyles/codeStyleConfig.xml
+.idea/jsLibraryMappings.xml
+.idea/ioet-exercise.iml
