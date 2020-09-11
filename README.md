@@ -24,7 +24,7 @@ El proyecto implementa tres helpers principales que se encargarán de realizar t
 $ npm install
 ```
 
-* Una vez instaladas, en la misma ruta del proyecto, ejecutar el siguiene comando
+* Una vez instaladas las dependencias, en la misma ruta del proyecto, ejecutar el siguiene comando
 
 ```sh
 $ npm start
